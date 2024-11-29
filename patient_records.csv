@@ -1,0 +1,5 @@
+id,first_name,last_name,diagnosis,admissiondate,dischargedate
+1,ricky,ponting,hypertension,2024-11-20,2024-11-29
+2,mike,hussey,hypertension,2024-10-30,2024-11-30
+3,mike,clarke,diabetes,2024-09-30,2024-10-15
+4,kite,clarke,diabetes,2024-08-15,2024-11-15
